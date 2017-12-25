@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514207469 source:e:\development\c\projects\test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<memory.h>
+	"funcs.h"
+
+1514207489 e:\development\c\projects\test1\funcs.h
+	<stdio.h>
+	<stdlib.h>
+
